@@ -4,7 +4,7 @@ import socket
 print("Starting server!")
 
 config = configparser.ConfigParser()
-config.read('db.ini')
+config.read('config.ini')
 
 host = config['network']['host']
 port = config['network']['port']
