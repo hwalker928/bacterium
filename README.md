@@ -9,6 +9,6 @@ The project is lead by [SoupOrSoda](https://github.com/SoupOrSoda/), with other 
 |Github Username|How they helped|Link|
 |-----|-----|-----|
 | SoupOrSoda | Lead developer of the game. | https://github.com/SoupOrSoda/ |
-| hwalker928 | Helped with the README.md | https://harrydev.tech |
+| hwalker928 | Helped with the README.md | https://harrydev.tech/ |
 ## Licensing
 Please follow the guidelines set out in the LICENSE file.
